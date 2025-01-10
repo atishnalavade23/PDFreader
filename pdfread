@@ -1,0 +1,2 @@
+Chat with PDFs using Gemini Model
+This project allows you to upload PDF documents and ask questions based on the contents of those documents using the Gemini AI model provided by Google Generative AI. The application extracts text from the PDF, splits it into manageable chunks, and uses the Gemini model to answer questions.
